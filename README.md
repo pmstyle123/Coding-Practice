@@ -1,1 +1,1 @@
-Efficient solutions and notes for programming exercises from sites like HackerRank
+💪Efficient solutions and notes for programming exercises from sites like HackerRank
